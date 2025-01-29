@@ -1,0 +1,13 @@
+name = "Greenis Cobblepack"
+author = "The Lean Green Porcini Machine"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e713a7009d3a42b63f2d8528b2a42b1488acf3ee4b643346c924f7479d8d05cf"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.107"
