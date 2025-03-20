@@ -1,0 +1,13 @@
+name = "Title Tweaks"
+filename = "titletweaks-1.1.3+1.21-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PbzVlL3w/versions/m8IFFLIr/titletweaks-1.1.3%2B1.21-neoforge.jar"
+hash-format = "sha512"
+hash = "80225c3e8bf48df875ce6312d887d05a78e5acb99c05e0c7ecbd0a4a60cd23d5011d69b9c3a73ccd0acd6f60aeebfb19efbb786f223af4f008856c3b63093b34"
+
+[update]
+[update.modrinth]
+mod-id = "PbzVlL3w"
+version = "m8IFFLIr"
